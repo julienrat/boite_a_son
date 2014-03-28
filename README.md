@@ -4,7 +4,14 @@ boite_a_son
 Application Boite a sons sous licence GNU-GPL
 
 [![screenshot](https://raw.github.com/julienrat/boite_a_son/master/screenshot.png)](#features) 
+
+
+Scannez le QRCODE !
+
 [![qrcode](https://raw.github.com/julienrat/boite_a_son/master/qrcode.png)](#features) 
+
+
+
 sous licence publique générale GNU, (GNU General Public License v3) Julien Rat pour l'Association Française des Petits Débrouillards
 
 Copyright (C) 2014 Julien Rat
