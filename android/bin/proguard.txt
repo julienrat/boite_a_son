@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:1
+-keep class processing.test.boite_a_sons.boite_a_sons { <init>(...); }
+
